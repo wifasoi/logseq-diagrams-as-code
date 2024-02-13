@@ -224,7 +224,7 @@ const templates: Template[] = [
       -
         - X1: 5
         - W1: s
-    ]}`)),
+    `)),
     new InMemoryTemplate("nwdiag", "NwDiag Diagram", dedent(`
     nwdiag {
       network dmz {
