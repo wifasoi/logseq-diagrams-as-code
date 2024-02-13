@@ -26,6 +26,7 @@ representation (aka 'Diagrams as Code').
 - [Vega](https://vega.github.io/)
 - [Vega-Lite](https://vega.github.io/vega-lite/)
 - [WaveDrom](https://wavedrom.com/)
+- [WireViz](https://github.com/wireviz/WireViz)
 - [D2](https://d2lang.com/)
 - [UMlet](https://www.umlet.com/)
 - [SvgBob](https://ivanceras.github.io/svgbob-editor/)

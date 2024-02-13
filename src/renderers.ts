@@ -25,6 +25,7 @@ const krokiRenderers = [
     "vega",
     "vegalite",
     "wavedrom",
+    "wireviz",
     "d2",
     "tikz"
 ].map(type => new KrokiRenderer(type));
